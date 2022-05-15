@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bg\n"
 "Project-Id-Version: openfoodfacts\n"
-"PO-Revision-Date: 2022-05-11 19:05\n"
+"PO-Revision-Date: 2022-05-14 19:03\n"
 "Language-Team: Bulgarian\n"
 "Last-Translator: \n"
 "POT-Creation-Date: \n"
@@ -5791,7 +5791,7 @@ msgstr "Хранителните стойности на продукта тря
 
 msgctxt "nutriscore_missing_category_and_nutrition_data"
 msgid "The category and the nutrition facts of the product must be specified in order to compute the Nutri-Score."
-msgstr ""
+msgstr "Категорията и хранителните стойности на продукта трябва да бъдат посочени, за да се изчисли Nutri-Score."
 
 msgctxt "health"
 msgid "Health"
@@ -5851,7 +5851,7 @@ msgstr "Липсващи хранителни стойности"
 
 msgctxt "nutriscore_missing_category_and_nutrition_data_short"
 msgid "Missing category and nutrition facts"
-msgstr ""
+msgstr "Липсваща категория и хранителни стойности"
 
 msgctxt "recommendation_who_reduce_or_stop_drinking_alcohol_title"
 msgid "Reduce or stop drinking alcohol"
